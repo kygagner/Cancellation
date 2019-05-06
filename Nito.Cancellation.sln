@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Version.ps1 = Version.ps1
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Cancellation", "src\Nito.Cancellation\Nito.Cancellation.csproj", "{D7AB5ED8-1B5B-468B-A3BA-8D15DC81EEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Cancellation", "src\Nito.Sn.Cancellation\Nito.Sn.Cancellation.csproj", "{D7AB5ED8-1B5B-468B-A3BA-8D15DC81EEAC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "test\UnitTests\UnitTests.csproj", "{69835B82-BC52-4A97-AA51-276EE69DBAC9}"
 EndProject
