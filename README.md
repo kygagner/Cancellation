@@ -1,3 +1,5 @@
+This fork exists for purposes of strong naming.
+
 # Cancellation [![AppVeyor](https://img.shields.io/appveyor/ci/StephenCleary/Cancellation.svg?style=plastic)](https://ci.appveyor.com/project/StephenCleary/Cancellation) [![Coveralls](https://img.shields.io/coveralls/StephenCleary/Cancellation.svg?style=plastic)](https://coveralls.io/r/StephenCleary/Cancellation)
 
 Types to assist with cancellation handling.
